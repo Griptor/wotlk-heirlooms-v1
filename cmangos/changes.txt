@@ -1,0 +1,4 @@
+SoundOverrideSubclass replace with unk0
+FlagsExtra			Flags2
+flagsCustom			ExtraFlags
+, `VerifiedBuild`	--remove last 0
