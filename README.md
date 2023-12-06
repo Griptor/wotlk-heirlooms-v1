@@ -6,16 +6,16 @@ The project is only using existing dbc files so there are currently limitations.
 
 
 How to install
-Simply download the SQLs.
-Use Heidi > File > run sql select the downloaded files.
-Close the game server and re launch.
-Close the game client, Delete the cache file in the client and re launch game.
-as a gm use .additem 90001 to add item refer to spread sheet for item list.
+-Simply download the SQLs.
+-Use Heidi > File > run sql select the downloaded files.
+-Close the game server and re launch.
+-Close the game client, Delete the cache file in the client and re launch game.
+-as a gm use .additem 90001 to add item refer to spread sheet for item list.
 
-Use Kiera3 to modify as desired refer to spreadsheet.
+Use Kiera3 to modify as desired, refer to spreadsheet.
 
 How to un-install
-Simply delete all items above 90001 in the item template or delete the item template and rebuild it.
+-Simply delete all items above 90001 in the item template or delete the item template and rebuild it.
 
 
 Bugs
